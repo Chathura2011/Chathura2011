@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning all coding languages
 - 💞️ I’m looking to collaborate on coding
 - 📫 How to reach me in Sri Lanka
-- 😄 Pronouns: sinhala
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm apositive person
 
 <!---
